@@ -1,0 +1,32 @@
+Red ATS Panamá 3D
+Copyright (c) 2026 Derek Cuan ("Delta Charlie") — https://github.com/Bugaryy
+Todos los derechos reservados.
+
+Este software, su código fuente, su diseño, su interfaz, sus textos, sus tutoriales y la recopilación y organización de sus datos (en adelante, "el Software") son obra de Derek Cuan, que firma como "Delta Charlie", y están protegidos por las leyes de derecho de autor.
+
+1. PERMISO DE USO
+   Se permite abrir y usar el Software tal como se publica, únicamente con fines personales, educativos y no comerciales.
+
+2. RESTRICCIONES
+   Sin autorización previa y por escrito del autor, no está permitido:
+   a) copiar, redistribuir, volver a publicar o alojar el Software, total o parcialmente, en otro sitio, aplicación o plataforma;
+   b) modificar, traducir, adaptar o crear obras derivadas del Software o de su código;
+   c) vender, alquilar, sublicenciar o usar el Software con fines comerciales, incluidos cursos, capacitaciones o productos de pago;
+   d) eliminar o alterar los avisos de autoría, el nombre "Delta Charlie", el enlace a github.com/Bugaryy o este aviso de licencia;
+   e) extraer los datos recopilados del Software para reutilizarlos en otro producto.
+
+3. COMPONENTES DE TERCEROS
+   El Software incluye componentes de terceros que conservan sus propias licencias, que no quedan restringidas por este documento:
+   - three.js — Copyright (c) 2010-2024 three.js authors — Licencia MIT (https://github.com/mrdoob/three.js/blob/dev/LICENSE).
+   - Imagen Blue Marble — NASA Earth Observatory (dominio público).
+   - Natural Earth — datos de costas y fronteras (dominio público).
+   - Modelo digital de elevación usado para el relieve — según la licencia de su fuente.
+   - Información aeronáutica basada en la AIP de Panamá, publicación de la autoridad aeronáutica de Panamá; esa información pertenece a su fuente oficial.
+
+4. SIN GARANTÍA
+   El Software se ofrece "tal cual", sin garantías de ningún tipo, expresas o implícitas, incluidas las de exactitud, actualidad o idoneidad para un propósito determinado. Es una herramienta de estudio: no es una fuente oficial ni operativa y no debe usarse para la navegación aérea, la planificación de vuelos reales ni el control de tránsito aéreo.
+
+5. LIMITACIÓN DE RESPONSABILIDAD
+   En ningún caso el autor será responsable de daños o perjuicios derivados del uso o de la imposibilidad de uso del Software.
+
+Para solicitar permisos o licencias comerciales, contacta al autor a través de https://github.com/Bugaryy.
