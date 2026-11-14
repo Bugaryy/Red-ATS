@@ -13,9 +13,14 @@ Es una herramienta didáctica con estilo arcade, pensada para aprender visualmen
 Todo va dentro de un solo archivo: `index.html`. Datos, texturas, relieve y librerías están incrustados, así que no hace falta instalar nada ni descargar archivos extra.
 
 - **En línea:** abre el enlace de GitHub Pages del proyecto.
-- **Sin conexión:** descarga `index.html` y ábrelo con Chrome, Edge, Firefox o Safari.
 
 Funciona en computadora, tablet y móvil. Necesita un navegador con WebGL.
+
+
+
+https://github.com/user-attachments/assets/b657d951-f223-43f0-ba25-4338b69c77e8
+
+
 
 ## Funciones
 
